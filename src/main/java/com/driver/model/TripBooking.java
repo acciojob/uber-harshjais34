@@ -2,6 +2,7 @@ package com.driver.model;
 
 import javax.persistence.*;
 
+import com.driver.model.TripBooking;
 @Entity
 @Table
 public class TripBooking {
